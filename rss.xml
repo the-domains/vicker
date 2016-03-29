@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vicker's Coding Kitchen]]></title>
+        <description><![CDATA[Vicker's Coding Kitchen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 04:22:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[修改已經 commit 的 SVN author]]></title>
+            <description><![CDATA[<article><h1>修改已經 commit 的 SVN author</h1><p>近日遇到一個問題就係 JIRA username 同 SVN username 唔同. 結果唔識得自動做 user mapping. 解決方法好明顯就係要改 username. JIRA 要改 username 極煩… Atlassian support 曾經講過因為 username 會 hardcode o係好多個地方… 所以正常黎講無可能改得到. 咁唯有改 SVN 啦. 之前曾經試過要做類似既事… 要將整個 repository dump 出黎, 改完之後再 import 返入去. 呢個方法唔單止慢, 仲好 risky…</p></article>]]></description>
+            <link>undefinedcommit-svn-author/index.html</link>
+            <guid isPermaLink="false">862fe8b2-20cf-4875-b2d8-2c13465f39c2</guid>
+            <pubDate>Tue, 29 Mar 2016 04:22:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
